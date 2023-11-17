@@ -1,0 +1,214 @@
+.Padre{
+  width: 100%; 
+height: 100%; 
+background-color: black;
+}
+
+.view-mobile-base,
+.view-mobile-base * {
+box-sizing: border-box;
+}
+.view-mobile-base {
+background: linear-gradient(
+  180deg,
+  rgba(255, 2, 2, 1) 55.72916865348816%,
+  rgba(255, 1, 1, 0.51) 78.64583134651184%,
+  rgba(255, 0, 0, 0) 100%
+);
+width: 26.875rem;
+height: 58.25rem;
+position: relative;
+overflow: hidden;
+}
+.boton-registro {
+background: linear-gradient(
+  180deg,
+  rgba(103, 0, 0, 1) 0%,
+  rgba(168, 6, 6, 0) 100%
+);
+border-radius: 4.063rem;
+padding: 0.625rem;
+width: 14rem;
+height: 4.125rem;
+position: absolute;
+left: 6.438rem;
+top: 47.188rem;
+overflow: hidden;
+}
+.registrarte {
+color: #ffffff;
+text-align: left;
+font: 700 1.563rem "Kameron-Bold", sans-serif;
+position: absolute;
+left: 2.563rem;
+top: 1.063rem;
+}
+.pregunta {
+color: #ffffff;
+text-align: left;
+font: 400 2.5rem "Lemon-Regular", sans-serif;
+position: absolute;
+left: 2.063rem;
+top: 35.5rem;
+width: 24.188rem;
+height: 9.75rem;
+}
+.app-2 {
+background: linear-gradient(
+  180deg,
+  rgba(168, 6, 6, 1) 0%,
+  rgba(168, 6, 6, 0) 100%
+);
+border-radius: 4.063rem;
+padding: 0.625rem;
+width: 12.375rem;
+height: 4.063rem;
+position: absolute;
+left: 0.438rem;
+top: 28.875rem;
+overflow: hidden;
+}
+.abrir-en-google-maps {
+color: #ffffff;
+text-align: left;
+font: 700 0.938rem "Kameron-Bold", sans-serif;
+position: absolute;
+left: 1.125rem;
+top: 1.438rem;
+}
+.app-1 {
+background: linear-gradient(
+  180deg,
+  rgba(168, 6, 6, 1) 0%,
+  rgba(168, 6, 6, 0) 100%
+);
+border-radius: 65px;
+padding: 10px;
+width: 198px;
+height: 65px;
+position: absolute;
+left: 215px;
+top: 462px;
+overflow: hidden;
+}
+.abrir-en-maps {
+color: #ffffff;
+text-align: left;
+font: 700 15px "Kameron-Bold", sans-serif;
+position: absolute;
+left: 46px;
+top: 23px;
+}
+.locales {
+background: #ff0202;
+width: 394px;
+height: 186px;
+position: absolute;
+left: 18px;
+top: 254px;
+overflow: hidden;
+}
+.ubicacion-4 {
+color: #ffffff;
+text-align: left;
+font: 700 20px "Kameron-Bold", sans-serif;
+position: absolute;
+left: 59px;
+top: 135px;
+width: 256px;
+height: 28px;
+}
+.locales-icon-ubi-4 {
+height: auto;
+position: absolute;
+right: 87.31%;
+left: 4.57%;
+width: 8.12%;
+bottom: 11.29%;
+top: 71.51%;
+height: 17.2%;
+overflow: visible;
+}
+.ubicacion-3 {
+color: #ffffff;
+text-align: left;
+font: 700 20px "Kameron-Bold", sans-serif;
+position: absolute;
+left: 58px;
+top: 99px;
+width: 256px;
+height: 28px;
+}
+.locales-icon-ubi-3 {
+height: auto;
+position: absolute;
+right: 87.31%;
+left: 4.57%;
+width: 8.12%;
+bottom: 32.8%;
+top: 50%;
+height: 17.2%;
+overflow: visible;
+}
+.ubicacion-2 {
+color: #ffffff;
+text-align: left;
+font: 700 20px "Kameron-Bold", sans-serif;
+position: absolute;
+left: 58px;
+top: 60px;
+width: 256px;
+height: 28px;
+}
+.locales-icon-ubi-2 {
+width: 32px;
+height: 32px;
+position: absolute;
+left: 18px;
+top: 56px;
+overflow: visible;
+}
+.ubicacion-1 {
+color: #ffffff;
+text-align: left;
+font: 700 20px "Kameron-Bold", sans-serif;
+position: absolute;
+left: 58px;
+top: 20px;
+width: 256px;
+height: 28px;
+}
+.locales-icon-ubi-1 {
+width: 32px;
+height: 32px;
+position: absolute;
+left: 18px;
+top: 16px;
+overflow: visible;
+}
+.locales-img-pollo {
+width: 134px;
+height: 156px;
+position: absolute;
+left: 243px;
+top: 16px;
+}
+.logo {
+width: 214px;
+height: 171px;
+position: absolute;
+left: 261px;
+top: 83px;
+}
+.titulo {
+color: #ffffff;
+text-align: left;
+font: 700 150px "Kameron-Bold", sans-serif;
+position: absolute;
+left: 7px;
+top: 73px;
+width: 312px;
+height: 150px;
+}
+
+
